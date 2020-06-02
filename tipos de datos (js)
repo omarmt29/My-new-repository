@@ -1,0 +1,54 @@
+Tipos de datos en JS
+
+-String: cadena de caracteres donde se utiliza las comillas "" para aplicarlo.
+por ejemplo
+
+"hola mundo", 'hola mundo'
+
+-Numeros enteros: Se aplican con el comando (INT)
+ejemplo: 12 o 30
+
+-Numero decimales: Se aplican con el comando 
+
+
+-Boolean: Tipo de dato que puede ser (verdadero o falso)
+por ejemplo: True o false
+
+-Lista de items, arreglo o array: para agrupar tipos de datos y almacenarlos juntos
+ejemplo: lista de usuarios
+["joe","ryan","maria"]
+lista de numeros de buena suerta
+["1","2","3"]
+
+-objeto o object: una representacion abstacta de algo en la vida real 
+con los simbolos {}
+ejemplo: 
+
+DATOS DE USUARIOS
+{
+"username": "ryan",
+"score": 70.4,
+"hours": 14,
+"proffesional": true
+}
+
+username = clave, ryan = valor
+score = clave, 70.4 = valor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
